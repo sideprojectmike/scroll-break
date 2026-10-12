@@ -1,0 +1,5 @@
+# scroll-break settings (edit freely, or use /scroll-break in Claude Code)
+ENABLED=1
+PLATFORM=tiktok          # tiktok | reels | shorts
+DELAY=5                  # seconds Claude must be working before the window opens
+BROWSER="Google Chrome"  # any Chromium browser: "Brave Browser", "Microsoft Edge", "Arc"...
